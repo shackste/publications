@@ -4,3 +4,6 @@ I am Stefan Hackstein, extragalactic astrophysicist and cosmologist. I want to l
 
 Here you can find all my publications, talks and other information about me. 
 If you are interested in any of this, please write me an email: stefan.hackstein@hs.uni-hamburg.de
+
+I'm author of the PrEFRBLE python package, build to interpret FRB observations
+https://github.com/shackste/PreFRBLE
